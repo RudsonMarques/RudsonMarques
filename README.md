@@ -36,5 +36,5 @@ Sistema fullstack completo desenvolvido de forma autônoma para empresa de distr
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudson-marques-53513a257)
-[![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhmarques@gmail.com)
+[![iCloud](https://img.shields.io/badge/-iCloud%20Mail-333?style=for-the-badge&logo=apple&logoColor=white)](mailto:ruh.marques@icloud.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudson_marques)
