@@ -1,4 +1,8 @@
-## Olá, eu sou o Rudson Marques 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Rudson+Marques+%F0%9F%91%8B;Fullstack+Developer;Node.js+%7C+Go+%7C+Next.js;Sistema+real+em+produ%C3%A7%C3%A3o+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 Desenvolvedor fullstack em transição de carreira, com sistema real em produção construído de forma autônoma.
 
